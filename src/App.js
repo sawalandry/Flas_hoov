@@ -7,9 +7,8 @@ function App() {
       <header className="App-header">
         <img src={img} className="App-logo" alt="logo" />
         <h1>
-          We are Coming soon 
+          We are Coming soon ...
         </h1>
-        <p>If you need to go back to main app click the link down below.👇</p>
         <a
           className="App-link"
           href="https://sawajr.netlify.app"
